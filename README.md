@@ -1,4 +1,4 @@
-# tips
+# Tips
 repo  for some tips 
 # Fix usb flash cards and CD cards
 
