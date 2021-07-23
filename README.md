@@ -6,3 +6,7 @@ repo  for some tips <br/>
 
 ### Docker without SUDO
 [docker-without-sudo.MD](docker-without-sudo.MD)
+
+### Collection of good links
+[good-links.MD](good-links.MD)
+- How to set up AWS and GitHub
