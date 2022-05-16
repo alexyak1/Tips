@@ -4,12 +4,12 @@ repo  for some tips <br/>
 ## Docker related
 ### Docker without SUDO
 [docker-without-sudo.MD](docker-without-sudo.MD)
-
-### How to set up and configure MySQL Docker Container 
-[mysql-docker-setup.MD](mysql-docker-setup.MD)
-
 ### How to move files from and to docker container 
 [copy-from-container.MD](copy-from-container.MD)
+
+## Golang related
+### Update go version
+[update-go-version.md](update-go-version.md)
 
 
 ## Else
@@ -19,5 +19,8 @@ repo  for some tips <br/>
 ### Collection of good links
 [good-links.MD](good-links.MD)
 - How to set up AWS and GitHub
+
+### How to set up and configure MySQL Docker Container 
+[mysql-docker-setup.MD](mysql-docker-setup.MD)
 
 
