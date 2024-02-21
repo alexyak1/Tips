@@ -2,6 +2,13 @@
 repo  for some tips <br/>
 
 ## Docker related
+Get docker: sudo apt-get install -y docker.io Set up docker without sudo:
+
+sudo groupadd docker
+sudo usermod -aG docker $USER
+newgrp docker
+
+
 ### Docker without SUDO
 [docker-without-sudo.MD](docker-without-sudo.MD)
 ### How to move files from and to docker container 
